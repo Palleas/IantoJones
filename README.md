@@ -21,4 +21,4 @@ func application(application: UIApplication, didFinishLaunchingWithOptions launc
 
 ## License 
 
-See [License file](LICENSE)
+See [License file](LICENSE), but I'm pretty sure I went for MIT.
